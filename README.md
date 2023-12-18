@@ -6,4 +6,4 @@ This is a collection of common machine learning algorithms written from scratch,
 
 ## How to use
 
-Each major type of ML has its own directory, so finding a specific algorithm starts with what kind of learning it relates to, unsupervised, supervised, or reinforcement learning. Each notebook either has synthetic data created in the notebook or has a link to the data source if you want to download it. Each notebook can be run on its own as long as you have the correct libaries installed. For most of them this is just the python standard library, numpy, and matplotlib.
+Each major type of ML has its own directory, so finding a specific algorithm starts with what kind of learning it relates to, unsupervised, supervised, or reinforcement learning. Each notebook either has synthetic data created in the notebook or has a link to the data source if you want to download it. A few notebooks do not have the data available as it isn't mine to share. Each notebook can be run on its own as long as you have the correct libaries installed. For most of them this is just the python standard library, numpy, and matplotlib.
